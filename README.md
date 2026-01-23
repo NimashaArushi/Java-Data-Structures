@@ -3,10 +3,14 @@ This repository contains a robust implementation of a Binary Search Tree (BST) d
 
 
 
-🚀✨ Features
+🚀✨ Features.
+
 📥 Insertion: Efficiently adds new nodes while maintaining the BST property ($Left < Root < Right$).
+
 🔍 Searching: Implementation of the search algorithm to locate values in $O(\log n)$ time complexity.
+
 🗑️ Deletion: Handles all three deletion cases:Leaf nodesNodes with one childNodes with two children (using the In-order successor)
+
 🔄 Traversals: Includes three depth-first search strategies:
 1.In-order: Returns values in ascending order.
 2.📈Pre-order: Processes the root before its children.
