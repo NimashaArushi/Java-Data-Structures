@@ -22,8 +22,13 @@ This repository contains a robust implementation of a Binary Search Tree (BST) d
 📏 Tree Height: A recursive function to calculate the maximum depth of the tree.
 
 🛠️ How to Run
+
 1.Clone this repository or copy the code from Binarytree.java.
+
 2.Ensure you have JDK installed.
+
 3.Run the following commands:
-Bashjavac Binarytree.java
-java Binarytree
+
+    Bashjavac Binarytree.java
+    
+    java Binarytree
