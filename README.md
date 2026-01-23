@@ -12,8 +12,11 @@ This repository contains a robust implementation of a Binary Search Tree (BST) d
 🗑️ Deletion: Handles all three deletion cases:Leaf nodesNodes with one childNodes with two children (using the In-order successor)
 
 🔄 Traversals: Includes three depth-first search strategies:
+
 1.In-order: Returns values in ascending order.
+
 2.📈Pre-order: Processes the root before its children.
+
 3.Post-order: Processes the children before the root.
 
 📏 Tree Height: A recursive function to calculate the maximum depth of the tree.
