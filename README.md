@@ -21,7 +21,7 @@ This repository contains a robust implementation of a Binary Search Tree (BST) d
 
 📏 Tree Height: A recursive function to calculate the maximum depth of the tree.
 
-🛠️ How to Run
+🛠️ ##How to Run
 
 1.Clone this repository or copy the code from Binarytree.java.
 
